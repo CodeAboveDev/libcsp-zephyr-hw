@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Hirose_FX8C")(type "KiCad")(uri "${KIPRJMOD}/footprints/Hirose_FX8C.pretty")(options "")(descr ""))
+  (lib (name "Kicad-STM32")(type "KiCad")(uri "D:/CodeAbove/Projects/Kicad-STM32/Footprints.pretty")(options "")(descr ""))
+)
